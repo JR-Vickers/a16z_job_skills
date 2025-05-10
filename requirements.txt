@@ -1,0 +1,7 @@
+pandas>=2.2
+numpy>=1.26
+requests
+beautifulsoup4
+pyarrow
+matplotlib
+importlib

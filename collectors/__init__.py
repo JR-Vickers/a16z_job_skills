@@ -1,0 +1,1 @@
+"""Collectors package – one module per ATS scraper."""
